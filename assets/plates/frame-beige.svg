@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1495" height="1052" viewBox="0 0 1495 1052" preserveAspectRatio="none" fill="none">
+  <defs>
+    <linearGradient id="top" x2="0" y2="1">
+      <stop stop-color="#8e806a"/><stop offset=".12" stop-color="#d7c6a9"/><stop offset=".46" stop-color="#c5b394"/><stop offset=".8" stop-color="#b6a387"/><stop offset="1" stop-color="#837760"/>
+    </linearGradient>
+    <linearGradient id="left">
+      <stop stop-color="#94846c"/><stop offset=".15" stop-color="#decdb0"/><stop offset=".55" stop-color="#c8b697"/><stop offset=".86" stop-color="#baa68a"/><stop offset="1" stop-color="#857862"/>
+    </linearGradient>
+    <linearGradient id="bottom" x2="0" y2="1">
+      <stop stop-color="#9a896e"/><stop offset=".23" stop-color="#ddcdb2"/><stop offset=".6" stop-color="#cbbb9e"/><stop offset=".87" stop-color="#e1d3ba"/><stop offset="1" stop-color="#a18f74"/>
+    </linearGradient>
+    <linearGradient id="right">
+      <stop stop-color="#81735e"/><stop offset=".2" stop-color="#c3af91"/><stop offset=".6" stop-color="#cab899"/><stop offset=".87" stop-color="#d5c3a5"/><stop offset="1" stop-color="#94836a"/>
+    </linearGradient>
+  </defs>
+  <!-- Reference-profile mitered rails in warm beige; original canvas opening retained. -->
+  <path fill="url(#top)" d="M89 93H1406L1370.1675 128.344H124.8325Z"/>
+  <path fill="url(#left)" d="M89 93 124.8325 128.344V921.552L89 957Z"/>
+  <path fill="url(#bottom)" d="M89 957 124.8325 921.552H1370.1675L1406 957Z"/>
+  <path fill="url(#right)" d="M1406 93V957L1370.1675 921.552V128.344Z"/>
+  <path stroke="#f1e5cf" stroke-opacity=".58" stroke-width="1.5" d="M92 954V96H1403"/>
+  <path stroke="#82735c" stroke-opacity=".65" stroke-width="1.5" d="M1403 96V954H92"/>
+  <path stroke="#86765e" stroke-width="2" d="M124.8325 921.552V128.344H1370.1675V921.552Z"/>
+</svg>
