@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1495" height="1052" viewBox="0 0 1495 1052" preserveAspectRatio="none" fill="none">
+  <defs>
+    <linearGradient id="outer" x1="0" y1="0" x2="1495" y2="1052" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#d8cbb2"/><stop offset=".48" stop-color="#b9aa8f"/><stop offset="1" stop-color="#9b8d75"/>
+    </linearGradient>
+    <linearGradient id="top" x1="0" y1="28" x2="0" y2="128" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#d7c9af"/><stop offset=".22" stop-color="#c7b89c"/><stop offset=".62" stop-color="#b4a58a"/><stop offset=".83" stop-color="#cabc9f"/><stop offset="1" stop-color="#9b8c73"/>
+    </linearGradient>
+    <linearGradient id="left" x1="18" y1="0" x2="125" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#d2c4a9"/><stop offset=".23" stop-color="#c1b196"/><stop offset=".64" stop-color="#b3a286"/><stop offset=".84" stop-color="#c8b99b"/><stop offset="1" stop-color="#988970"/>
+    </linearGradient>
+    <linearGradient id="bottom" x1="0" y1="922" x2="0" y2="1024" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#d4c7ad"/><stop offset=".18" stop-color="#c5b698"/><stop offset=".58" stop-color="#b1a085"/><stop offset=".81" stop-color="#bbaa8d"/><stop offset="1" stop-color="#93836a"/>
+    </linearGradient>
+    <linearGradient id="right" x1="1370" y1="0" x2="1477" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#c4b69a"/><stop offset=".18" stop-color="#baaa8d"/><stop offset=".58" stop-color="#ab9b7f"/><stop offset=".8" stop-color="#b7a78a"/><stop offset="1" stop-color="#8e7e66"/>
+    </linearGradient>
+  </defs>
+  <!-- Rings preserve the exact transparent 83.3% × 75.4% artwork opening. -->
+  <path fill="#81745f" fill-rule="evenodd" d="M8 20H1487V1032H8Z M124.8325 128.344H1370.1675V921.552H124.8325Z"/>
+  <path fill="url(#outer)" fill-rule="evenodd" d="M14 26H1481V1026H14Z M124.8325 128.344H1370.1675V921.552H124.8325Z"/>
+  <path fill="url(#top)" d="M23 35H1472L1370.1675 128.344H124.8325Z"/>
+  <path fill="url(#left)" d="M23 35 124.8325 128.344V921.552L23 1017Z"/>
+  <path fill="url(#bottom)" d="M23 1017 124.8325 921.552H1370.1675L1472 1017Z"/>
+  <path fill="url(#right)" d="M1472 35V1017L1370.1675 921.552V128.344Z"/>
+  <path stroke="#e3d7bf" stroke-width="3" opacity=".7" d="M28 1012V40H1467"/>
+  <path stroke="#80715b" stroke-width="3" opacity=".7" d="M1467 40V1012H28"/>
+  <path stroke="#a49479" stroke-width="2" d="M49 991V61H1446V991Z"/>
+  <path stroke="#d9cdb4" stroke-width="2" opacity=".75" d="M55 985V67H1440"/>
+  <path stroke="#d7cab0" stroke-width="3" d="M111 933V115H1384V933Z"/>
+  <path stroke="#8d7c63" stroke-width="3" opacity=".8" d="M122 924V126H1373V924Z"/>
+</svg>
