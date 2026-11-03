@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1495" height="1052" viewBox="0 0 1495 1052" preserveAspectRatio="none" fill="none">
+  <defs>
+    <linearGradient id="top" x2="0" y2="1">
+      <stop stop-color="#544335"/><stop offset=".12" stop-color="#8b7158"/><stop offset=".46" stop-color="#796049"/><stop offset=".8" stop-color="#6b533e"/><stop offset="1" stop-color="#473a2e"/>
+    </linearGradient>
+    <linearGradient id="left">
+      <stop stop-color="#584535"/><stop offset=".15" stop-color="#96795c"/><stop offset=".55" stop-color="#7c6148"/><stop offset=".86" stop-color="#6f5641"/><stop offset="1" stop-color="#473a2e"/>
+    </linearGradient>
+    <linearGradient id="bottom" x2="0" y2="1">
+      <stop stop-color="#554331"/><stop offset=".23" stop-color="#9a8066"/><stop offset=".6" stop-color="#8a7057"/><stop offset=".87" stop-color="#a18a70"/><stop offset="1" stop-color="#66503d"/>
+    </linearGradient>
+    <linearGradient id="right">
+      <stop stop-color="#44382d"/><stop offset=".2" stop-color="#796048"/><stop offset=".6" stop-color="#846a50"/><stop offset=".87" stop-color="#92785c"/><stop offset="1" stop-color="#574333"/>
+    </linearGradient>
+  </defs>
+  <!-- Slender, mitered walnut rails; the original canvas opening is unchanged. -->
+  <path fill="url(#top)" d="M89 93H1406L1370.1675 128.344H124.8325Z"/>
+  <path fill="url(#left)" d="M89 93 124.8325 128.344V921.552L89 957Z"/>
+  <path fill="url(#bottom)" d="M89 957 124.8325 921.552H1370.1675L1406 957Z"/>
+  <path fill="url(#right)" d="M1406 93V957L1370.1675 921.552V128.344Z"/>
+  <path stroke="#b39a7b" stroke-opacity=".48" stroke-width="1.5" d="M92 954V96H1403"/>
+  <path stroke="#44372c" stroke-opacity=".65" stroke-width="1.5" d="M1403 96V954H92"/>
+  <path stroke="#463a2e" stroke-width="2" d="M124.8325 921.552V128.344H1370.1675V921.552Z"/>
+</svg>
