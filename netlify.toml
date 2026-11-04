@@ -1,0 +1,8 @@
+[build]
+  command = "mkdir -p netlify-public/meygray && git archive HEAD | tar -x -C netlify-public/meygray"
+  publish = "netlify-public"
+
+[[redirects]]
+  from = "/"
+  to = "/meygray/"
+  status = 302
